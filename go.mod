@@ -1,4 +1,4 @@
-module go_historian_windows
+module github.com/songRun518/go_historian_windows
 
 go 1.24.0
 
