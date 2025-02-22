@@ -1,4 +1,4 @@
-module github.com/songRun518/go_historian_windows
+module github.com/songRun518/go-press
 
 go 1.24.0
 
